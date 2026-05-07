@@ -5,7 +5,8 @@
   <p><i>"Um cantinho especial para o gatinho. \(★ω★)/"</i></p>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ffb7c5?style=for-the-badge&logoColor=white" />
+    <img src="<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/c6854da5-1963-4569-98cb-f1120a675de5" />
+" />
   </p>
 </div>
 
@@ -13,9 +14,8 @@
 
 ### ✨ Sobre
 
-* 💌 **Envelope Animado:** Uma introdução charmosa que convida ao clique.
-* 🏃‍♂️ **Botão Fujão:** Uma brincadeira clássica onde o "Não" foge do cursor.
-* 📈 **Persistência:** O botão "Sim" cresce a cada tentativa de fuga do "Não".
+* 💌 **Envelope Animado:** 
+* 🏃‍♂️ **Você não tem escolha!** 
 
 ---
 
