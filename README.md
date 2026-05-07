@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/wanessadev/miaufica/main/angel_nessa.png" width="200px" />
-  <p><i>"Um cantinho especial para o gatinho. \(★ω★)/"</i></p>
+  <p><i>"Uma cartinha especial para o gatinho. \(★ω★)/"</i></p>
   
   <p>
     <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ffb7c5?style=for-the-badge&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ### ✨ Sobre
 
-* 💌 **Envelope Animado:** 
+* 💌 **Eu fiz essa cartinha para você!** por favor, não fuja. ┌∩┐(◣_◢)┌∩┐
 * 🏃‍♂️ **Você não tem escolha!** 
 
 ---
