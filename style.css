@@ -4,7 +4,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart-bg.jpg");
+    /* Cor de fundo base (bege clarinho da imagem) */
+    background-color: #f2f2e8; 
+    /* Caminho para o seu GIF de morangos */
+    background-image: url("moranguinhos.webp"); 
+    /* Faz o GIF se repetir em toda a tela como um padrão */
+    background-repeat: repeat;
+    /* Ajusta o tamanho do padrão (ajuste os 200px se quiser os morangos maiores ou menores) */
+    background-size: 250px; 
     font-family: "Pixelify Sans", sans-serif;
 }
 
@@ -12,6 +19,22 @@ body {
 #envelope-container {
     text-align: center;
     cursor:pointer;
+}
+
+#envelope-container p {
+    font-size: 24px;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px 25px;
+    border-radius: 30px;
+    
+    /* Centralização garantida */
+    display: table; /* Faz o fundo abraçar o texto */
+    margin: 20px auto 0 auto; /* Centraliza o bloco 'table' horizontalmente */
+    
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255, 182, 193, 0.4);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* Um sombreado leve para dar profundidade */
 }
 
 @keyframes pulse {

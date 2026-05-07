@@ -43,7 +43,7 @@ noBtn.addEventListener("mouseover", () => {
 
 // Quando o SIM é clicado (O grande momento!)
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Ebaaaa! Te amo, baby! ♡";
+    title.textContent = "Ebaaaa! Te amo, baby! ( ͡° ͜ʖ ͡°)🍺♡";
     catImg.src = "cat_dance.gif";
     document.querySelector(".letter-window").classList.add("final");
     buttons.style.display = "none";
