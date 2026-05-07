@@ -5,7 +5,7 @@
   <p><i>"Um cantinho especial para o gatinho. \(★ω★)/"</i></p>
   
   <p>
-    <img src="<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/c6854da5-1963-4569-98cb-f1120a675de5" />
+    <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ffb7c5?style=for-the-badge&logoColor=white" />
 " />
   </p>
 </div>
