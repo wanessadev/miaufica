@@ -1,7 +1,7 @@
 # 🎀 WELCOME 🎀
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wanessadev/miaufica/main/angel_nessa.png.jpg" width="200px" />
+  <img src="https://raw.githubusercontent.com/wanessadev/miaufica/main/angel_nessa.png" width="200px" />
   <p><i>"Um cantinho especial para o gatinho. \(★ω★)/"</i></p>
   
   <p>
